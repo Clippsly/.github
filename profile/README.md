@@ -10,4 +10,4 @@
 
 > On GitHub we share our open-source projects for anyone to use for completly free!
 
-#### 2023 © Clippsly Ltd
+#### 2024 © Clippsly Ltd
